@@ -1,0 +1,560 @@
+site,pass,location,habitat,searcher,date,date2,species,morph,sex,stage,SVL1,SVL2,SVLmean,tail,mass,tail_loss,eggs,notes
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,42,NA,42,53.6,1.14,N,NA,6 eggs noted
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,45.6,NA,45.6,47.8,1.26,Y,NA,tail loss questionable
+A,1,all ,CO,BD,06/01/16,1_1,PO,NA,NA,J,30.3,NA,30.3,27.4,0.43,N,NA,
+A,1,all ,CO,BD,06/01/16,1_1,PO,NA,NA,J,30.6,NA,30.6,30,0.57,N,NA,
+A,1,all ,CO,NR,06/01/16,1_1,PO,NA,M,A,33.2,NA,33.2,34.4,0.81,N,NA,
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,38.7,NA,38.7,36,0.8,N,NA,
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,41.4,NA,41.4,36.5,0.92,N,NA,
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,44.9,NA,44.9,39,1.18,N,NA,
+A,1,all ,CO,BD,06/01/16,1_1,PO,NA,F,A,38.1,NA,38.1,46.6,1.01,N,NA,
+A,1,all ,CO,BD,06/01/16,1_1,PO,NA,M,A,40,NA,40,49.1,1.34,N,NA,
+A,1,all ,CO,BD,06/01/16,1_1,PO,NA,M,A,38.9,NA,38.9,50,1.04,N,NA,
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,43.8,NA,43.8,51.4,1.36,N,NA,
+A,1,all ,CO,NR,06/01/16,1_1,PO,NA,F,A,46.8,NA,46.8,54.7,1.65,N,NA,
+A,1,all ,CO,NR,06/01/16,1_1,PO,NA,M,A,44.6,NA,44.6,60.7,1.13,N,NA,
+A,1,all ,CO,KM,06/01/16,1_1,PO,NA,F,A,44.8,NA,44.8,33.4,1.18,Y,NA,
+C,2,all ,CO,NR,06/24/16,2_4,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ESCAPED
+C,2,all ,CO,KM,06/24/16,2_4,PO,NA,F,A,46.5,NA,46.5,52.7,1.94,Y,NA,tail loss questionable
+C,2,all ,CO,NR,06/24/16,2_4,PO,NA,F,A,43.7,NA,43.7,32.9,1.8,N,NA,
+C,2,all ,CO,BD,06/24/16,2_4,PO,NA,M,A,40.2,NA,40.2,36.5,1.15,N,NA,
+C,2,all ,CO,KM,06/24/16,2_4,PO,NA,F,A,37,NA,37,37.2,1,N,NA,
+C,2,all ,CO,KM,06/24/16,2_4,PO,NA,NA,J,30.4,NA,30.4,37.3,0.75,N,NA,
+C,2,all ,CO,KM,06/24/16,2_4,PO,NA,M,A,44,NA,44,51,1.45,N,NA,
+C,2,all ,CO,BD,06/24/16,2_4,PO,NA,M,A,51.2,NA,51.2,56.7,1.6,N,NA,
+C,2,all ,CO,BD,06/24/16,2_4,PO,NA,F,A,40,NA,40,32.9,0.89,Y,NA,
+C,2,all ,CO,KM,06/24/16,2_4,PO,NA,F,A,40.1,NA,40.1,34,1.04,Y,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,all ,CO,BD,06/29/16,3_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,all ,CO,BD,06/29/16,3_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,all ,CO,KM,06/29/16,3_2,PO,NA,F,A,45.2,NA,45.2,46.5,1.84,Y,NA,tail loss questionable
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,41.4,NA,41.4,47.8,1.44,Y,NA,tail loss questionable
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,37.9,NA,37.9,34,0.85,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,34,NA,34,34.3,1.05,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,39,NA,39,38.5,0.9,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,M,A,47.5,NA,47.5,40.4,1.47,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,38.5,NA,38.5,43.6,1.94,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,40.7,NA,40.7,45,0.95,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,38.7,NA,38.7,45.1,1.22,N,NA,
+B,3,all ,CO,KM,06/29/16,3_2,PO,NA,F,A,46.8,NA,46.8,48.1,1.62,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,43.1,NA,43.1,48.4,1.71,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,F,A,44,NA,44,51.2,1.78,N,NA,
+B,3,all ,CO,NR,06/29/16,3_2,PO,NA,M,A,43.1,NA,43.1,51.6,1.21,N,NA,
+B,3,all ,CO,KM,06/29/16,3_2,PO,NA,F,A,42.1,NA,42.1,30.7,1.58,Y,NA,
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,M,A,54,NA,54,61.6,1.62,N,NA,5 eggs noted
+A,4,all ,CO,BD,09/25/16,4_1,PO,NA,F,A,48.4,NA,48.4,51.6,2.1,Y,NA,tail loss questionable
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,F,A,47.4,NA,47.4,58.8,1.75,Y,NA,tail loss questionable
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,F,A,44.4,NA,44.4,42.6,1.84,N,NA,
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,F,A,45.7,NA,45.7,45.5,1.83,N,NA,
+A,4,all ,CO,KH,09/25/16,4_1,PO,NA,F,A,39.4,NA,39.4,46.2,1.33,N,NA,
+A,4,all ,CO,BD,09/25/16,4_1,PO,NA,F,A,46.7,NA,46.7,46.8,1.59,N,NA,
+A,4,all ,CO,KF,09/25/16,4_1,PO,NA,F,A,47,NA,47,48.7,1.27,N,NA,
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,F,A,45.7,NA,45.7,49.8,1.11,N,NA,
+A,4,all ,CO,KM,09/25/16,4_1,PO,NA,F,A,43,NA,43,50,1.26,N,NA,
+A,4,all ,CO,BCH,09/25/16,4_1,PO,NA,F,A,48.6,NA,48.6,52.9,1.62,N,NA,
+A,4,all ,CO,CK,09/25/16,4_1,PO,NA,F,A,49.1,NA,49.1,57.4,1.69,N,NA,
+A,4,all ,CO,CK,09/25/16,4_1,PO,NA,F,A,50.5,NA,50.5,57.7,1.93,N,NA,
+A,4,all ,CO,KM,09/25/16,4_1,PO,NA,F,A,45,NA,45,59.9,1.7,N,NA,
+A,4,all ,CO,KF,09/25/16,4_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+A,4,all ,CO,KF,09/25/16,4_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+A,4,all ,CO,KF,09/25/16,4_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+A,4,all ,CO,CK,09/25/16,4_1,PO,NA,F,A,48.5,NA,48.5,43,1.96,Y,NA,
+A,4,all ,CO,KM,09/25/16,4_1,PO,NA,F,A,49.7,NA,49.7,43.2,1.51,Y,NA,
+A,4,all ,CO,KM,11/06/16,4_5,PO,NA,M,A,42.3,NA,42.3,46.6,1.28,N,NA, 
+A,4,all ,CO,KM,11/06/16,4_5,PO,NA,F,A,49.5,NA,49.5,58,1.96,N,NA,10 eggs noted
+A,4,all ,CO,KH,11/06/16,4_5,PO,NA,F,A,48,NA,48,53.3,1.55,N,NA,8 eggs noted
+A,4,all ,CO,KM,11/06/16,4_5,PO,NA,NA,H,21.8,NA,21.8,14.3,NA,N,NA,HATCHLING
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,NA,NA,J,40.3,NA,40.3,23.8,0.68,N,NA,"JUVENILE, LEAF LITTER"
+C,5,all ,LL,EFAC,05/11/17,5_4,PO,Speckled,NA,J,40.3,NA,40.3,23.8,0.68,N,NA,
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,NA,J,35.3,NA,35.3,31.9,0.73,Y,NA,JUVENILE
+C,5,all ,LL,EM,05/11/17,5_4,PO,Striped,F,A,38.1,NA,38.1,39.2,0.82,N,0,
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,NA,J,38,NA,38,40.6,0.91,N,NA,NA
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,M,A,40.9,NA,40.9,43.6,0.92,N,NA,NA
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,striped,F,A,41.6,NA,41.6,43,0.95,Y,NA,NA
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,M,A,39.9,NA,39.9,42.7,0.99,N,NA, 
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,F,A,41.2,NA,41.2,46.7,0.99,N,0, 
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,striped,F,A,42,NA,42,36.6,0.99,N,0, 
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,M,A,39.7,NA,39.7,43.5,1.02,N,NA, 
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,striped,M,A,45.6,NA,45.6,36.1,1.03,Y,NA,NA
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,striped,M,A,42,NA,42,51.2,1.04,N,NA,NA
+C,5,all ,LL,EM,05/11/17,5_4,PO,Striped,M,A,43.4,NA,43.4,23.6,1.09,Y,NA,
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,F,A,43.4,NA,43.4,47.2,1.22,Y,0,questionable on tail loss
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,M,A,47,NA,47,43,1.23,Y,NA, 
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,striped,M,A,50.6,NA,50.6,47.1,1.37,Y,NA,NA
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,M,A,46.2,NA,46.2,48,1.4,N,NA,NA
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,M,A,45.6,NA,45.6,54.9,1.52,N,NA,NA
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,M,A,48.5,NA,48.5,48.8,1.53,Y,NA,questionable on tail loss
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,M,A,45.4,NA,45.4,48.9,1.57,N,NA,NA
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,striped,F,A,53.5,NA,53.5,48.4,1.63,N,0, 
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,M,A,49,NA,49,51.2,1.66,N,NA,NA
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,M,A,48.2,NA,48.2,59.1,1.72,Y,NA,questionable on tail loss
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,M,A,48.1,NA,48.1,59.7,1.74,N,NA,NA
+C,5,all ,LL,EM,05/11/17,5_4,PO,Striped,M,A,47.9,NA,47.9,59.2,1.85,N,NA,
+C,5,all ,CO,EM,05/11/17,5_4,PO,striped,M,A,49.9,NA,49.9,53.7,1.86,Y,NA,questionable on tail loss
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,M,A,52.1,NA,52.1,51.3,1.91,N,NA,NA
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,striped,F,A,56.5,NA,56.5,51.6,2.07,N,8, 
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,striped,F,A,50.4,NA,50.4,55.5,2.3,N,9,NA
+C,5,all ,CO,RKSP,05/11/17,5_4,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Escaped
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,NA,NA,NA,NA,NA,NA,NA,NA,NA,Escaped
+C,5,all ,CO,SA,05/11/17,5_4,PO,striped,NA,NA,NA,NA,NA,NA,NA,NA,NA,Escaped
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,HATCHLING
+C,5,all ,CO,EM,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,Y,NA,HATCHLING
+C,5,all ,CO,EFAC,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,Y,NA,"HATCHLING, LEAF LITTER"
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,NA
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,NA
+C,5,all ,CO,ACBS,05/11/17,5_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,NA
+C,5,all ,LL,EFAC,05/11/17,5_4,PO,Speckled,NA,H,NA,NA,NA,NA,NA,NA,Y,
+B,6,all ,CO,AC,06/12/17,6_5,PO,striped,NA,J,36.1,NA,36.1,37.6,0.77,N,NA,juvenile
+B,6,all ,CO,AC,06/12/17,6_5,PO,striped,NA,J,36.7,NA,36.7,32.1,0.77,N,NA,juvenile
+B,6,all ,CO,CC,06/12/17,6_5,PO,striped,NA,J,34.7,NA,34.7,39.1,0.78,N,NA,juvenile
+B,6,all ,CO,AC,06/12/17,6_5,PO,striped,NA,J,35.4,NA,35.4,31.6,0.89,N,NA,juvenile
+B,6,all ,CO,AC,06/12/17,6_5,PO,striped,F,A,43.8,NA,43.8,46.6,0.95,N,0,
+B,6,all ,CO,CC,06/12/17,6_5,PO,striped,F,A,45.5,NA,45.5,29.9,1.3,N,0,
+B,6,all ,LL,AC,06/12/17,6_5,PO,Striped,F,A,54.3,NA,54.3,37,1.35,Y,0,
+B,6,all ,CO,CC,06/12/17,6_5,PO,striped,M,A,44.3,NA,44.3,32,1.42,Y,NA,
+B,6,all ,CO,CC,06/12/17,6_5,PO,striped,F,A,48.5,NA,48.5,39,1.81,Y,0,
+B,6,all ,CO,CC,06/12/17,6_5,PO,striped,F,A,43.4,NA,43.4,32.7,1.83,N,0,
+B,6,all ,CO,CC,06/12/17,6_5,PO,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,escaped
+B,6,all ,CO,CC,06/12/17,6_5,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,escaped
+B,6,all ,CO,PS,06/12/17,6_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+B,6,all ,CO,CC,06/12/17,6_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+B,6,all ,CO,CC,06/12/17,6_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+B,6,all ,CO,AC,06/12/17,6_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,NA,J,27.3,NA,27.3,26.1,0.35,N,NA,JUVENILE
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,NA,J,28.9,NA,28.9,30.1,0.4,N,NA,JUVENILE
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,NA,J,31.8,NA,31.8,32.5,0.54,N,NA,JUVENILE
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,F,A,35.3,NA,35.3,37.6,0.65,N,0,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,F,A,37,NA,37,5.1,0.65,Y,0,
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,F,A,35,NA,35,28.8,0.72,N,0,
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,F,A,36.3,NA,36.3,20.2,0.78,Y,0,
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,F,A,35.8,NA,35.8,32.3,0.83,N,0,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,F,A,36.1,NA,36.1,39.1,0.89,N,0,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,38.3,NA,38.3,42.2,0.91,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,36.4,NA,36.4,37.8,0.95,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,36.8,NA,36.8,29.7,0.98,N,NA,
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,F,A,38.6,NA,38.6,33.4,0.98,N,0,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,40.9,NA,40.9,43,1.01,Y,NA,
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,M,A,39.6,NA,39.6,38.8,1.03,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,40.4,NA,40.4,36.2,1.08,N,NA,
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,M,A,40.5,NA,40.5,42.4,1.11,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,38,NA,38,33.8,1.13,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,F,A,39.7,NA,39.7,43.1,1.17,N,0,
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,M,A,43.6,NA,43.6,55.6,1.22,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,42.7,NA,42.7,48.6,1.38,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,44,NA,44,50.5,1.42,N,NA,
+A,7,all ,CO,PS,06/27/17,7_6,PO,striped,F,A,42.1,NA,42.1,43.5,1.47,N,0,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,46.2,NA,46.2,54.1,1.48,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,M,A,46.1,NA,46.1,28.9,1.59,N,NA,
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,F,A,43.6,NA,43.6,50.1,1.66,N,0,
+A,7,all ,CO,AD,06/27/17,7_6,PO,striped,M,A,47.9,NA,47.9,61,1.8,N,NA,
+A,7,all ,CO,AC,06/27/17,7_6,PO,striped,F,A,49,NA,49,62.9,2.19,N,0,
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,escaped
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,escaped
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,escaped
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,all ,CO,DM,06/27/17,7_6,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+C,8,all ,CO,AD,10/28/17,8_4,PO,striped,NA,J,30.8,NA,30.8,31.2,0.43,N,NA,
+C,8,all ,CO,AD,10/28/17,8_4,PO,striped,NA,J,31.9,NA,31.9,35.1,0.55,N,NA,
+C,8,all ,CO,AC,10/28/17,8_4,PO,striped,NA,J,31,NA,31,19.9,0.62,Y,NA,
+C,8,all ,CO,AC,10/28/17,8_4,PO,striped,NA,A,37.3,NA,37.3,53.1,1.2,N,NA,
+C,8,all ,CO,AD,10/28/17,8_4,PO,striped,NA,A,44.5,NA,44.5,65.8,1.21,N,NA,tail length too high
+C,8,all ,CO,AD,10/28/17,8_4,PO,striped,NA,A,40,NA,40,43.6,1.35,N,NA,
+C,8,all ,CO,AY,10/28/17,8_4,PO,striped,NA,A,39.1,NA,39.1,50,1.42,N,NA,
+C,8,all ,CO,AY,10/28/17,8_4,PO,striped,NA,A,42.4,NA,42.4,43.8,1.47,N,NA,
+C,8,all ,CO,AD,10/28/17,8_4,PO,striped,NA,A,50.7,NA,50.7,62.9,2.17,N,NA,
+C,8,all ,CO,AY,10/28/17,8_4,PO,striped,NA,J,25.9,NA,25.9,30.6,NA,N,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,8,all ,CO,DM,10/28/17,8_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+B,9,all ,CO,BF,09/28/17,9_2,PO,NA,NA,J,30,31.9,30.95,31,0.35,N,NA,
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,J,29.9,29.8,29.85,27.4,0.37,N,NA,
+B,9,all ,CO,JR,09/28/17,9_2,PO,NA,NA,J,24.7,26.6,25.65,25,0.42,N,NA,
+B,9,all ,CO,JR,09/28/17,9_2,PO,NA,NA,J,31.7,29.1,30.4,29,0.54,N,NA,
+B,9,all ,CO,GA,09/28/17,9_2,PO,NA,NA,J,32.4,32.4,32.4,30.2,0.58,N,NA,
+B,9,all ,CO,JR,09/28/17,9_2,PO,NA,NA,J,34.6,31.9,33.25,34,0.58,N,NA,
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,J,34.9,33.7,34.3,26,0.59,Y,NA,
+B,9,all ,CO,GA,09/28/17,9_2,PO,NA,F,A,36.4,37.1,36.75,29.8,0.61,Y,0,
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,J,31.3,33.1,32.2,35.4,0.62,N,NA,
+B,9,all ,CO,JR,09/28/17,9_2,PO,NA,M,A,34.6,32,33.3,36.8,0.66,N,NA,
+B,9,all ,CO,DM,09/28/17,9_2,PO,NA,NA,J,30,28.5,29.25,31,0.74,N,NA,
+B,9,all ,CO,GA,09/28/17,9_2,PO,NA,NA,J,33.5,33,33.25,33.8,0.8,N,NA,
+B,9,all ,CO,AR ,09/28/17,9_2,PO,NA,NA,J,30.1,30.4,30.25,19.8,1,Y,NA,
+B,9,all ,CO,GA,09/28/17,9_2,PO,NA,F,A,48,47.6,47.8,18.1,1.06,N,0,tail lost in capture
+B,9,all ,CO,JR,09/28/17,9_2,PO,NA,M,A,47.8,49.7,48.75,61,1.15,N,NA,
+B,9,all ,CO,DM,09/28/17,9_2,PO,NA,F,A,47,46.5,46.75,31,1.47,N,NA,
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,F,A,47.7,50.5,49.1,63.8,1.77,N,0,
+B,9,all ,CO,DM,09/28/17,9_2,PO,NA,F,A,47.5,46.2,46.85,49,2.02,N,7,
+B,9,all ,CO,BF,09/28/17,9_2,PO,NA,F,A,48.4,50,49.2,61.8,2.1,N,0,
+B,9,all ,CO,DM,09/28/17,9_2,PO,NA,F,A,46.2,45.1,45.65,60.3,NA,N,14,3.3 entered for mass is too high
+B,9,all ,CO,DM,09/28/17,9_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+B,9,all ,CO,AR,09/28/17,9_2,PO,NA,NA,H,NA ,NA,NA,NA,NA,NA,NA,hatchling
+A,1,even,CO,BD,06/07/16,1_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+A,1,even,CO,KM,06/07/16,1_4,PO,NA,M,A,38.5,NA,38.5,43.4,1.49,Y,NA,tail loss questionable
+A,1,even,CO,BD,06/07/16,1_4,PO,NA,NA,J,30.4,NA,30.4,35,0.58,N,NA,
+A,1,even,CO,KM,06/07/16,1_4,PO,NA,F,A,38.4,NA,38.4,42,1.3,N,NA,
+A,1,even,CO,KM,06/07/16,1_4,PO,NA,M,A,38.1,NA,38.1,42.9,1.35,N,NA,
+A,1,even,CO,KM,06/07/16,1_4,PO,NA,M,A,46,NA,46,47.4,1.82,N,NA,
+A,1,even,CO,NR,06/07/16,1_4,PO,NA,M,A,40,NA,40,48.3,1.32,N,NA,
+A,1,even,CO,NR,06/07/16,1_4,PO,NA,F,A,44,NA,44,54.9,1.9,N,NA,
+A,1,even,CO,KM,06/07/16,1_4,PO,NA,F,A,36.6,NA,36.6,34.9,1.31,Y,NA,
+A,1,even,LL,NR,06/07/16,1_4,PO,NA,F,A,28.4,NA,28.4,29,0.47,N,NA,
+C,2,even,CO,NR,06/21/16,2_3,PO,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,ESCAPED
+C,2,even,CO,BD,06/21/16,2_3,PO,NA,M,A,39.6,NA,39.6,42.5,1.76,Y,NA,tail loss questionable
+C,2,even,CO,BD,06/21/16,2_3,PO,NA,M,A,44.7,NA,44.7,49.6,1.4,Y,NA,tail loss questionable
+C,2,even,CO,BD,06/21/16,2_3,PO,NA,M,A,42.1,NA,42.1,51.7,1.68,Y,NA,tail loss questionable
+C,2,even,CO,NR,06/21/16,2_3,PO,NA,M,A,42.5,NA,42.5,54.2,1.39,N,NA,
+C,2,even,CO,NR,06/21/16,2_3,PO,NA,NA,J,29.3,NA,29.3,33.9,0.4,NA,NA,
+C,2,even,CO,NR,06/21/16,2_3,PO,NA,F,A,43.7,NA,43.7,26.2,0.89,Y,NA,
+C,2,even,CO,NR,06/21/16,2_3,PO,NA,M,A,36.1,NA,36.1,35.7,0.99,Y,NA,
+B,3,even,CO,NR,06/30/16,3_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,even,CO,BD,06/30/16,3_3,PO,NA,M,A,44.6,NA,44.6,49.6,1.25,Y,NA,tail loss questionable
+B,3,even,CO,NR,06/30/16,3_3,PO,NA,M,A,39.3,NA,39.3,52.3,1.38,Y,NA,tail loss questionable
+B,3,even,CO,NR,06/30/16,3_3,PO,NA,M,A,42.6,NA,42.6,37.2,1.27,Y,NA,
+A,4,even,LL,KM,10/02/16,4_2,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA, 
+A,4,even,CO,CK,10/02/16,4_2,PO,NA,F,A,44.8,NA,44.8,47.5,1.37,Y,NA,"tail loss questionable, 12 eggs noted"
+A,4,even,CO,KF,10/02/16,4_2,PO,NA,NA,J,30.8,NA,30.8,28.9,0.45,N,NA,
+A,4,even,CO,RS,10/02/16,4_2,PO,NA,M,A,42,NA,42,30.4,1.26,N,NA,
+A,4,even,CO,KF,10/02/16,4_2,PO,NA,M,A,40.8,NA,40.8,32.1,0.92,N,NA,
+A,4,even,CO,KF,10/02/16,4_2,PO,NA,M,A,43.7,NA,43.7,36.1,1.18,N,NA,
+A,4,even,CO,BD,10/02/16,4_2,PO,NA,F,A,36.8,NA,36.8,36.6,0.98,N,NA,
+A,4,even,CO,KM,10/02/16,4_2,PO,NA,F,A,42.9,NA,42.9,43.9,1.82,N,NA,
+A,4,even,CO,CK,10/02/16,4_2,PO,NA,F,A,47.2,NA,47.2,47.2,1.13,N,NA,
+A,4,even,CO,BD,10/02/16,4_2,PO,NA,M,A,47.5,NA,47.5,51.3,1.23,N,NA,
+A,4,even,CO,RS,10/02/16,4_2,PO,NA,F,A,51.2,NA,51.2,52.8,1.76,N,NA,
+A,4,even,CO,BD,10/02/16,4_2,PO,NA,M,A,45.9,NA,45.9,54.9,1.65,N,NA,
+A,4,even,CO,BD,10/02/16,4_2,PO,NA,M,A,54.6,NA,54.6,58.5,2.22,N,NA,
+A,4,even,CO,KM,10/02/16,4_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+A,4,even,CO,KH,10/02/16,4_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,5,even,CO,RKSP,05/10/17,5_3,PO,striped,NA,J,29.2,NA,29.2,25.2,0.34,N,NA,Ran Away
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,NA,J,31.5,NA,31.5,26.9,0.6,Y,NA,JUVENILE
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,M,A,41.8,NA,41.8,27.4,0.62,Y,NA,
+C,5,even,CO,EM,05/10/17,5_3,PO,striped,NA,J,35.3,NA,35.3,32.2,0.76,N,NA,JUVENILE
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,M,A,38.9,NA,38.9,43.6,0.85,N,NA,
+C,5,even,CO,RKSP,05/10/17,5_3,PO,striped,NA,A,44,NA,44,NA,1.2,Y,NA,
+C,5,even,CO,EM,05/10/17,5_3,PO,striped,M,A,50.5,NA,50.5,47.3,1.26,Y,NA,
+C,5,even,CO,EFAC,05/10/17,5_3,PO,striped,M,A,44.6,NA,44.6,36.3,1.36,Y,NA,
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,F,A,46.2,NA,46.2,53.4,1.36,N,NA,
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,M,A,49.5,NA,49.5,52,1.36,N,NA,
+C,5,even,CO,ACBS,05/10/17,5_3,PO,striped,M,A,48.6,NA,48.6,46.2,1.38,N,NA,NA
+C,5,even,CO,EFAC,05/10/17,5_3,PO,NA,M,A,40.7,NA,40.7,52.5,1.39,N,NA,
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,M,A,45,NA,45,51.1,1.46,N,NA,
+C,5,even,CO,EFAC,05/10/17,5_3,PO,striped,F,A,51.6,NA,51.6,48.5,1.49,N,0,
+C,5,even,CO,EFAC,05/10/17,5_3,PO,unstriped,M,A,49.6,NA,49.6,54.4,1.5,Y,NA,questionable on tail loss
+C,5,even,CO,ACBS,05/10/17,5_3,PO,striped,F,A,54.3,NA,54.3,50.8,1.59,N,NA,had characteristics of RB and PO
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,M,A,50.9,NA,50.9,57.1,1.62,N,NA,
+C,5,even,CO,ACBS,05/10/17,5_3,PO,striped,F,A,55.2,NA,55.2,54.3,1.7,N,NA,had characteristics of RB and PO
+C,5,even,CO,EFAC,05/10/17,5_3,PO,striped,M,A,43.6,NA,43.6,55.1,2.3,Y,NA,questionable on tail loss
+C,5,even,CO,EFAC,05/10/17,5_3,PO,striped,NA,H,19.8,NA,19.8,14.1,NA,Y,NA,HATCHLING
+C,5,even,CO,EFAC,05/10/17,5_3,PO,NA,NA,H,20.2,NA,20.2,18.8,NA,N,NA,HATCHLING
+C,5,even,CO,ET,05/10/17,5_3,PO,NA,NA,H,21.5,NA,21.5,11,NA,Y,NA,
+B,6,even,CO,AC,06/05/17,6_3,PO,striped,NA,A,42.7,NA,42.7,1.7,0.76,Y,NA,
+B,6,even,CO,AC,06/05/17,6_3,PO,striped,M,A,42.4,NA,42.4,39.5,1.13,Y,NA,
+B,6,even,CO,AD,06/05/17,6_3,PO,striped,NA,A,44.6,NA,44.6,41.5,1.2,N,NA,
+B,6,even,CO,AC,06/05/17,6_3,PO,striped,M,A,44,NA,44,46.7,1.27,N,NA,
+B,6,even,CO,AC,06/05/17,6_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+B,6,even,CO,AC,06/05/17,6_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,NA,J,32.9,NA,32.9,26.1,0.55,Y,NA,JUVENILE
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,38.6,NA,38.6,20.8,0.75,Y,0, 
+A,7,even,CO,AD,06/20/17,7_3,PO,striped,F,A,46.1,NA,46.1,24.1,0.75,N,0,spots on belly
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,41.6,NA,41.6,41.5,1.04,N,0, 
+A,7,even,CO,AC,06/20/17,7_3,PO,unstriped,M,A,43.2,NA,43.2,11.7,1.05,Y,NA, 
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,41.6,NA,41.6,48.4,1.23,N,0, 
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,42,NA,42,35.4,1.29,Y,0, 
+A,7,even,CO,PS,06/20/17,7_3,PO,striped,F,A,39.7,NA,39.7,40.5,1.4,Y,0,questionable on tail loss
+A,7,even,CO,PS,06/20/17,7_3,PO,striped,F,A,47.3,NA,47.3,42.3,1.47,Y,0, 
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,47.3,NA,47.3,44,1.51,N,0,spots on belly
+A,7,even,CO,AD,06/20/17,7_3,PO,striped,M,A,50.4,NA,50.4,41.9,1.51,Y,NA, 
+A,7,even,CO,PS,06/20/17,7_3,PO,striped,F,A,49,NA,49,50,1.57,N,0, 
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,F,A,52.1,NA,52.1,46.8,1.58,Y,0, 
+A,7,even,CO,AD,06/20/17,7_3,PO,striped,F,A,45.3,NA,45.3,51.5,1.63,N,0,spots on belly
+A,7,even,CO,AC,06/20/17,7_3,PO,striped,M,A,50.8,NA,50.8,57,1.7,N,NA, 
+A,7,even,CO,PS,06/20/17,7_3,PO,striped,M,A,49.8,NA,49.8,29.6,1.76,Y,NA, 
+A,7,even,CO,PS,06/20/17,7_3,PO,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,ESCAPED
+A,7,even,CO,AD,06/20/17,7_3,PO,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,ESCAPED
+A,7,even,CO,AD,06/20/17,7_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+A,7,even,CO,AC,06/20/17,7_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+A,7,even,CO,AC,06/20/17,7_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+C,8,even,CO,AC,09/23/17,8_1,PO,striped,NA,A,36.9,NA,36.9,36,0.7,N,NA,
+C,8,even,CO,AC,09/23/17,8_1,PO,striped,NA,A,43.1,NA,43.1,42.1,1.05,Y,NA,
+C,8,even,CO,AC,09/23/17,8_1,PO,striped,NA,A,40.37,NA,40.37,60.11,1.34,N,NA,tail length looks lhigh
+C,8,even,CO,AD,09/23/17,8_1,PO,striped,NA,J,30.79,NA,30.79,50.49,1.37,N,NA,tail length looks high
+C,8,even,CO,AD,09/23/17,8_1,PO,striped,NA,A,40.32,NA,40.32,60.15,1.5,N,NA,tail length looks lhigh
+C,8,even,CO,AD,09/23/17,8_1,PO,striped,NA,A,50.14,NA,50.14,50.37,1.59,N,NA,
+C,8,even,CO,DM,09/23/17,8_1,PO,striped,NA,A,40.79,NA,40.79,60.54,1.68,N,NA,
+C,8,even,CO,AD,09/23/17,8_1,PO,striped,NA,J,30.11,NA,30.11,30.66,NA,N,NA,mass can't be 1.81
+B,9,even,CO,DM,09/21/17,9_1,PO,NA,NA,J,33.2,34,33.6,35.2,0.47,NA,NA,
+B,9,even,CO,GA,09/21/17,9_1,PO,NA,NA,J,32.4,32.5,32.45,30.5,0.48,N,NA,
+B,9,even,CO,LL,09/21/17,9_1,PO,NA,NA,J,33.7,35.1,34.4,42.1,0.82,N,NA,
+B,9,even,CO,AR,09/21/17,9_1,PO,NA,F,A,39.2,39.5,39.35,53.9,1.29,N,0,
+B,9,even,CO,JR,09/21/17,9_1,PO,NA,M,A,46,42.6,44.3,52.5,1.38,N,NA,
+B,9,even,CO,GA,09/21/17,9_1,PO,NA,F,A,48.7,49,48.85,38.9,1.56,Y,0,
+B,9,even,CO,AR,09/21/17,9_1,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,even,CO,DM,09/21/17,9_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,hatchling
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,NA,H,NA,NA,,NA,NA,Y,NA,HATCHLING
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,NA,J,34.4,NA,34.4,42.3,0.7,N,NA,JUVENILE
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,NA,J,25.6,NA,25.6,4.8,0.22,Y,NA,JUVENILE
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,NA,J,26.8,NA,26.8,8.5,0.32,Y,NA,JUVENILE
+A,1,dominant,CO,NR,06/06/16,1_3,PO,NA,F,A,39.4,NA,39.4,43.8,1.18,Y,NA,tail loss questionable
+A,1,dominant,CO,NR,06/06/16,1_3,PO,NA,F,A,35.8,NA,35.8,38.3,0.93,N,NA,
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,F,A,36.9,NA,36.9,43.3,1.33,N,NA,
+A,1,dominant,CO,NR,06/06/16,1_3,PO,NA,M,A,42.2,NA,42.2,44.9,0.89,N,NA,
+A,1,dominant,CO,BD,06/06/16,1_3,PO,NA,F,A,42,NA,42,46,0.92,N,NA,
+A,1,dominant,CO,NR,06/06/16,1_3,PO,NA,F,A,40.6,NA,40.6,47.6,1.21,N,NA,
+A,1,dominant,CO,BD,06/06/16,1_3,PO,NA,M,A,37.2,NA,37.2,50,1.33,N,NA,
+A,1,dominant,CO,NR,06/06/16,1_3,PO,NA,M,A,40.6,NA,40.6,57,1.45,N,NA,
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,M,A,41.6,NA,41.6,27.2,1.62,Y,NA,
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,M,A,46,NA,46,41,1.56,Y,NA,
+A,1,dominant,CO,4D,06/06/16,1_3,PO,NA,M,A,43.8,NA,43.8,43.7,1.76,Y,NA,
+A,1,dominant,LL,4D,06/06/16,1_3,PO,NA,F,A,34,NA,34,35.8,0.76,N,NA,
+A,1,dominant,LL,4D,06/06/16,1_3,PO,NA,F,A,35,NA,35,36,0.78,N,NA,
+A,1,dominant,LL,4D,06/06/16,1_3,PO,NA,NA,A,41.6,NA,41.6,39,1.15,Y,NA,tail looks long
+C,2,dominant,CO,KM,06/20/16,2_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCH
+C,2,dominant,CO,KM,06/20/16,2_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCH
+C,2,dominant,CO,NR,06/20/16,2_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCH
+C,2,dominant,CO,BD,06/20/16,2_2,PO,NA,F,A,48.2,NA,48.2,65.6,2.14,N,NA,tail length seems high
+C,2,dominant,CO,KM,06/20/16,2_2,PO,NA,M,A,45.2,NA,45.2,47.3,1.34,Y,NA,tail loss questionable
+C,2,dominant,CO,BD,06/20/16,2_2,PO,NA,F,A,40.6,NA,40.6,46.9,1.1,N,NA,
+C,2,dominant,CO,NR,06/20/16,2_2,PO,NA,F,A,40.5,NA,40.5,51.2,1.26,N,NA,
+C,2,dominant,CO,KM,06/20/16,2_2,PO,NA,F,A,59.8,NA,59.8,54.5,1.61,N,NA,
+C,2,dominant,CO,BD,06/20/16,2_2,PO,NA,F,A,41.8,NA,41.8,60.8,1.9,N,NA,
+B,3,dominant,CO,BD,06/28/16,3_1,PO,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ESCAPED!
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,3,dominant,CO,KM,06/28/16,3_1,PO,NA,F,A,49.4,NA,49.4,70,2.22,N,NA,tail length 70??
+B,3,dominant,CO,BD,06/28/16,3_1,PO,NA,F,A,42.7,NA,42.7,44,1.55,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,41.3,NA,41.3,44.1,1.02,N,NA,
+B,3,dominant,CO,KM,06/28/16,3_1,PO,NA,F,A,46.9,NA,46.9,44.7,1.37,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,38.3,NA,38.3,45.5,1.17,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,48.8,NA,48.8,47,1.63,N,NA,
+B,3,dominant,CO,BD,06/28/16,3_1,PO,NA,M,A,50.2,NA,50.2,48,1.5,N,NA,
+B,3,dominant,CO,BD,06/28/16,3_1,PO,NA,F,A,44,NA,44,50,1.58,N,NA,
+B,3,dominant,CO,KM,06/28/16,3_1,PO,NA,F,A,48,NA,48,51.2,1.5,N,NA,
+B,3,dominant,CO,BD,06/28/16,3_1,PO,NA,F,A,48.2,NA,48.2,53,1.8,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,49.8,NA,49.8,53.4,1.94,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,47.6,NA,47.6,57.7,1.47,N,NA,
+B,3,dominant,CO,NR,06/28/16,3_1,PO,NA,F,A,51.3,NA,51.3,47.5,1.78,Y,NA,
+B,3,dominant,LL,BD,06/28/16,3_1,PO,NA,F,A,38,NA,38,44.8,0.8,N,NA,
+B,3,dominant,LL,KM,06/28/16,3_1,PO,NA,F,A,43.8,NA,43.8,37,1.36,Y,NA,
+B,3,dominant,LL,NR,06/28/16,3_1,PO,NA,M,A,42.6,NA,42.6,45.5,1.33,N,NA,
+A,4,dominant,CO,BD,10/30/16,4_4,PO,NA,F,A,42.2,NA,42.2,41,1.08,N,NA,
+A,4,dominant,CO,KF,10/30/16,4_4,PO,NA,M,A,42.5,NA,42.5,44.1,1.18,N,NA,
+A,4,dominant,CO,BD,10/30/16,4_4,PO,NA,M,A,46.8,NA,46.8,52.1,1.22,N,NA,
+A,4,dominant,CO,CK,10/30/16,4_4,PO,NA,F,A,49.8,NA,49.8,59.6,2.45,N,NA,
+A,4,dominant,CO,KF,10/30/16,4_4,PO,NA,M,A,51.9,NA,51.9,64.9,2.23,N,NA,
+A,4,dominant,CO,NA,10/30/16,4_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+A,4,dominant,CO,NA,10/30/16,4_4,PO,NA,NA,H ,NA,NA,NA,NA,NA,NA,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,27.7,NA,27.7,NA,0.4,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,34.3,32.5,33.4,NA,0.62,N,0, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,30.6,34.9,32.75,NA,0.65,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,27.7,NA,27.7,NA,0.7,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,NA,J,39.1,39.2,39.15,NA,0.7,Y,NA,JUVENILE 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,34.3,NA,34.3,NA,0.73,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,38.7,42.2,40.45,NA,0.75,N,0, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,33.6,36.6,35.1,NA,0.8,N,NA,
+C,5,dominant,LL,AB,05/01/17,5_1,PO,NA,M,A,42.7,NA,42.7,42.7,0.82,N,NA,
+C,5,dominant,LL,SA,05/01/17,5_1,PO,NA,M,A,47.7,NA,47.7,42.7,0.82,NA,Y,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,38.6,37.1,37.85,NA,0.94,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,40.6,38.9,39.75,NA,0.97,Y,0, 
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,39.4,40.9,40.15,NA,0.97,N,0, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,45.3,NA,45.3,NA,1.02,N,NA,
+C,5,dominant,LL,ET,05/01/17,5_1,PO,NA,F,A,44.2,NA,44.2,44.7,1.04,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,40.1,39.3,39.7,NA,1.05,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,45.3,45.5,45.4,NA,1.08,N,NA,
+C,5,dominant,LL,EM,05/01/17,5_1,PO,NA,F,A,42.4,NA,42.4,NA,1.09,N,0,
+C,5,dominant,CO,RKSP,05/01/17,5_1,PO,NA,M,A,45.6,47,46.3,NA,1.11,Y,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,49.8,NA,49.8,NA,1.12,N,NA, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,42.4,44.2,43.3,NA,1.15,N,NA,
+C,5,dominant,LL,EM,05/01/17,5_1,PO,NA,M,A,43.2,NA,43.2,NA,1.15,N,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,F,A,48.2,NA,48.2,NA,1.18,N,7, 
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,42.3,40.7,41.5,NA,1.22,N,0, 
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,52.3,NA,52.3,NA,1.22,Y,NA, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,45.3,43.2,44.25,NA,1.24,N,NA,
+C,5,dominant,CO,RKSP,05/01/17,5_1,PO,NA,M,A,48.6,47.9,48.25,NA,1.27,Y,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,44.2,NA,44.2,NA,1.28,N,NA, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,47.4,45.4,46.4,NA,1.28,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,40.1,44.1,42.1,NA,1.3,N,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,45.1,NA,45.1,NA,1.3,Y,NA, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,45.4,NA,45.4,NA,1.3,Y,NA,
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,M,A,47.6,47.1,47.35,NA,1.33,N,NA,
+C,5,dominant,CO,SA,05/01/17,5_1,PO,NA,M,A,47.6,47.1,47.35,NA,1.33,N,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,F,A,50.5,NA,50.5,NA,1.35,Y,3, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,45.2,49.7,47.45,NA,1.39,N,NA,
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,F,A,52.2,52,52.1,NA,1.42,N,4,
+C,5,dominant,CO,SA,05/01/17,5_1,PO,NA,F,A,53.3,53,53.15,NA,1.42,N,4,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,43.8,NA,43.8,NA,1.43,N,NA,
+C,5,dominant,LL,EM,05/01/17,5_1,PO,NA,F,A,49.9,NA,49.9,NA,1.44,Y,5,no tail length measurement
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,46.2,47.9,47.05,NA,1.46,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,44.1,NA,44.1,NA,1.47,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,46.2,47.9,47.05,NA,1.47,N,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,F,A,49.8,NA,49.8,NA,1.47,N,0, 
+C,5,dominant,LL,EM,05/01/17,5_1,PO,NA,M,A,51.2,NA,51.2,NA,1.49,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,49.6,47.7,48.65,NA,1.5,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,51.3,46.5,48.9,NA,1.5,N,NA,
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,M,A,49.7,49.9,49.8,NA,1.5,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,44.9,43.3,44.1,NA,1.52,N,0, 
+C,5,dominant,CO,SA,05/01/17,5_1,PO,NA,M,A,47.5,46.1,46.8,NA,1.52,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,52.5,51.1,51.8,NA,1.53,Y,6, 
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,M,A,41.5,45.7,43.6,NA,1.54,N,NA,
+C,5,dominant,CO,RKSP,05/01/17,5_1,PO,NA,M,A,50,51.6,50.8,NA,1.54,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,33.2,33.8,33.5,NA,1.56,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,45.1,46.9,46,NA,1.57,Y,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,47.6,47.4,47.5,NA,1.6,Y,NA,
+C,5,dominant,LL,EM,05/01/17,5_1,PO,NA,M,A,46.9,NA,46.9,NA,1.61,N,NA,
+C,5,dominant,CO,SA,05/01/17,5_1,PO,NA,F,A,51.6,50.5,51.05,NA,1.63,Y,0,
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,F,A,61.6,50.5,56.05,NA,1.63,Y,0,SVL measurements are too different
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,50.6,NA,50.6,NA,1.65,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,M,A,47.6,49.4,48.5,NA,1.69,N,NA, 
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,F,A,49.6,48.7,49.15,NA,1.7,N,11, 
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,M,A,51.2,48.9,50.05,NA,1.72,N,NA,
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,45.9,NA,45.9,NA,1.84,N,NA,
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,M,A,53.5,55.2,54.35,NA,1.89,N,NA, 
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,55.7,NA,55.7,NA,1.9,Y,NA, 
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,M,A,54.4,NA,54.4,NA,1.97,Y,NA, 
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,F,A,54.7,54.7,54.7,NA,2.12,Y,8,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,NA,H,20.4,NA,20.4,NA,NA,N,NA,hatchling
+C,5,dominant,CO,AB,05/01/17,5_1,PO,NA,NA,H,21.3,21.8,21.55,NA,NA,Y,NA,
+C,5,dominant,CO,EFAC,05/01/17,5_1,PO,NA,NA,H,21.9,NA,21.9,NA,NA,N,NA,JUVENILE
+C,5,dominant,CO,EM,05/01/17,5_1,PO,NA,NA,H,23.5,21.2,22.35,NA,NA,Y,NA,JUVENILE
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,NA,J,26.3,24.1,25.2,NA,NA,N,NA,
+C,5,dominant,CO,RKSP,05/01/17,5_1,PO,NA,F,A,37.2,37.6,37.4,NA,NA,Y,0,mass of 0.35 can't be right
+C,5,dominant,CO,ET,05/01/17,5_1,PO,NA,F,A,40,NA,40,NA,NA,N,0,escaped in van
+B,6,dominant,CO,AC,06/06/17,6_4,PO,striped,M,A,43.9,NA,43.9,31.1,1.09,Y,NA,
+B,6,dominant,CO,PS,06/06/17,6_4,PO,striped,M,A,47.5,NA,47.5,10.4,1.11,Y,NA,
+B,6,dominant,CO,AC,06/06/17,6_4,PO,striped,M,A,49.9,NA,49.9,55.1,1.49,N,NA,
+B,6,dominant,CO,PS,06/06/17,6_4,PO,striped,M,A,46.3,NA,46.3,51.1,1.53,N,NA,
+B,6,dominant,CO,AD,06/06/17,6_4,PO,striped,M,A,48.7,NA,48.7,52.5,1.63,N,NA,
+B,6,dominant,CO,AD,06/06/17,6_4,PO,striped,F,A,44.9,NA,44.9,55.6,1.77,N,0,
+B,6,dominant,CO,PS,06/06/17,6_4,PO,NA,NA,A,NA,NA,NA,NA,NA,NA,NA,escaped
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,NA,J,29.5,NA,29.5,29.4,0.29,N,NA,
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,NA,J,27.5,NA,27.5,23.1,0.38,N,NA,hatchling?
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,NA,J,36.1,NA,36.1,24.8,0.77,Y,NA,
+A,7,dominant,CO,AD,06/13/17,7_1,PO,striped,M,A,39.3,NA,39.3,39.1,0.98,N,NA,
+A,7,dominant,CO,PS,06/13/17,7_1,PO,striped,F,A,39.9,NA,39.9,29.7,1.01,Y,0,
+A,7,dominant,CO,AD,06/13/17,7_1,PO,striped,M,A,40.7,NA,40.7,42.5,1.1,N,NA,
+A,7,dominant,CO,PS,06/13/17,7_1,PO,striped,F,A,42.4,NA,42.4,44.1,1.24,Y,0,
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,F,A,44.5,NA,44.5,44.6,1.39,N,0,
+A,7,dominant,CO,AD,06/13/17,7_1,PO,striped,F,A,49.9,NA,49.9,54.3,1.48,N,0,
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,M,A,46.3,NA,46.3,47.4,1.53,N,NA,
+A,7,dominant,CO,PS,06/13/17,7_1,PO,striped,F,A,48.3,NA,48.3,47,1.56,N,0,
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,M,A,45.4,NA,45.4,51.8,1.57,N,NA,
+A,7,dominant,CO,AC,06/13/17,7_1,PO,striped,F,A,39.2,NA,39.2,39.6,1.58,Y,0,
+A,7,dominant,CO,AD,06/13/17,7_1,PO,striped,M,A,43.9,NA,43.9,47.3,1.74,Y,NA,questionable on tail loss
+A,7,dominant,CO,AD,06/13/17,7_1,PO,striped,M,A,48.4,NA,48.4,51.2,1.95,Y,NA,questionable on tail loss
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,NA,J,30,NA,30,32.5,0.37,N,NA,JUVENILE
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,NA,J,31.6,NA,31.6,21.8,0.44,N,NA,JUVENILE
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,NA,J,32.1,NA,32.1,30.6,0.52,N,NA,JUVENILE
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,NA,J,32.5,NA,32.5,31,0.56,N,NA,JUVENILE
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,38.9,NA,38.9,21.8,0.79,Y,0,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,42.6,NA,42.6,45.7,0.94,N,0,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,40.9,NA,40.9,36.3,1.01,N,0,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,M,A,42.6,NA,42.6,46.7,1.14,N,NA,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,M,A,45.8,NA,45.8,51.6,1.18,N,NA,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,42,NA,42,50.8,1.48,N,0,
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,F,A,45.8,NA,45.8,51.4,1.54,N,0,
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,M,A,46.7,NA,46.7,40.5,1.57,Y,NA,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,50.5,NA,50.5,60.2,1.58,N,0,
+A,7,dominant,CO,AD,06/23/17,7_5,PO,striped,F,A,44.5,NA,44.5,57.9,1.62,N,0,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,M,A,48.9,NA,48.9,55,1.79,N,NA,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,F,A,45.8,NA,45.8,46.2,1.87,N,0,
+A,7,dominant,CO,AC,06/23/17,7_5,PO,striped,F,A,54.3,NA,54.3,58.6,1.87,N,0,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,F,A,45.9,NA,45.9,48.5,1.91,N,0,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,M,A,48.6,NA,48.6,61.8,1.97,N,NA,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,F,A,49.1,NA,49.1,52.5,1.99,N,0,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,F,A,51.8,NA,51.8,61.5,2.14,N,0,
+A,7,dominant,CO,PS,06/23/17,7_5,PO,striped,M,A,48.7,NA,48.7,57.6,2.27,N,NA,
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,dominant,CO,DM,06/23/17,7_5,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+C,8,dominant,CO,PS,09/30/17,8_2,PO,striped,NA,J,30.2,NA,30.2,30.1,0.79,Y,NA,
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,striped,NA,A,36.5,NA,36.5,40.9,0.83,N,NA,
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,striped,NA,A,38,NA,38,44.1,0.93,N,NA,
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,striped,NA,A,52,NA,52,27.6,1.73,Y,NA,
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,striped,NA,A,49.2,NA,49.2,56.7,1.9,N,NA,
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+C,8,dominant,CO,THEF,09/30/17,8_2,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,NA,H,20.3,22.4,21.35,14.8,NA,Y,NA,
+B,9,dominant,CO,BF,10/26/17,9_5,PO,NA,NA,J,30.7,27,28.85,23,0.32,Y,NA,
+B,9,dominant,CO,BF,10/26/17,9_5,PO,NA,NA,J,26.5,29.5,28,25.7,0.4,NA,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,J,33,32.9,32.95,20.4,0.47,Y,NA,
+B,9,dominant,CO,BF,10/26/17,9_5,PO,NA,F,A,35.5,35.9,35.7,31.1,0.65,N,0,
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,NA,J,31.4,31.3,31.35,34.7,0.85,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,F,A,36.3,37.2,36.75,45.2,0.94,N,0,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,F,A,46,45.5,45.75,45,1.12,N,0,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,J,33,32.3,32.65,24.2,1.14,N,NA,
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,M,A,44.9,45,44.95,22.1,1.17,Y,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,45.5,44.5,45,35.3,1.18,Y,0,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,51.7,49,50.35,58.4,1.25,N,6,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,F,A,42.7,44.9,43.8,45.1,1.26,N,0,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,M,A,43.6,45,44.3,40.1,1.37,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,M,A,46.8,45,45.9,50.5,1.43,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,45.4,43.8,44.6,34.4,1.49,Y,0,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,M,A,46.4,47.6,47,48,1.53,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,46.2,47.8,47,48.5,1.54,N,8,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,M,A,48.3,45.8,47.05,47,1.54,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,51,49.4,50.2,57.4,1.54,N,6,
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,F,A,49.5,48,48.75,56.2,1.58,N,6,
+B,9,dominant,CO,BF,10/26/17,9_5,PO,NA,F,A,46,46.2,46.1,53.8,1.6,NA,0,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,47.5,47,47.25,49.6,1.62,N,7,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,M,A,48.5,51,49.75,52.2,1.62,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,M,A,50.3,48.7,49.5,49.2,1.62,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,M,A,48.1,49.7,48.9,50.6,1.72,N,NA,
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,M,A,54.3,55,54.65,41.3,1.75,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,M,A,47.3,50.6,48.95,44.2,1.76,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,F,A,47.4,47.5,47.45,46.3,1.78,N,0,
+B,9,dominant,CO,AA,10/26/17,9_5,PO,NA,M,A,55,54.5,54.75,39.3,1.78,Y,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,M,A,50.4,50,50.2,61.4,1.94,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,M,A,39.4,40.8,40.1,42.2,1.95,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,dominant,CO,GA,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+B,9,dominant,CO,DM,10/26/17,9_5,PO,NA,NA,H,NA,NA,NA,NA,NA,N,NA,
+A,1,rare,CO,NR,06/09/16,1_5,PO,NA,F,A,40.6,NA,40.6,25.2,1.23,Y,NA,
+C,5,rare,CO,ET,05/12/17,5_5,PO,striped,M,A,44.8,NA,44.8,29.5,1.07,N,NA,only PO caught in mRB zone
+B,6,rare,CO,AD,05/31/17,6_1,PO,striped,M,A,52.9,NA,52.9,44.6,1.9,Y,NA,
+B,6,rare,CO,PS,05/31/17,6_1,PO,striped,M,A,53,NA,53,59.5,1.96,Y,NA,questionable on tail loss
+A,7,rare,CO,AC,06/22/17,7_4,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,HATCHLING
+A,7,rare,CO,AD,06/29/17,7_7,PO,striped,M,A,45.9,NA,45.9,51.2,1.44,N,NA,spots on head
+A,7,rare,CO,AD,06/29/17,7_7,PO,striped,F,A,51.1,NA,51.1,69.7,2.35,N,NA,
+A,7,rare,CO,AC,06/29/17,7_7,PO,striped,F,A,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+A,7,rare,CO,DM,06/29/17,7_7,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,moved from SM data
+C,8,rare,CO,EF,10/29/17,8_5,PO,NA,NA,NA,46.4,NA,46.4,36.2,0.65,Y,NA,unreliable mass?
+C,8,rare,CO,EF,10/29/17,8_5,PO,NA,NA,NA,50.5,NA,50.5,47.1,1.16,N,NA,unreliable mass?
+C,8,rare,CO,EF,10/29/17,8_5,PO,NA,NA,NA,50,NA,50,55.5,1.59,N,NA,unreliable mass?
+B,9,rare,CO,DM,10/05/17,9_3,PO,NA,NA,H,NA,NA,NA,NA,NA,NA,NA,
+C,5,even,CO,ACBS,05/10/17,5_3,PO ,striped,M,A,45.5,NA,45.5,45.7,1.06,Y,NA,NA
